@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/wmayu2019/Foodapp/static/css/main.3341f1d5.chunk.css",
-    "main.js": "/wmayu2019/Foodapp/static/js/main.88d95c17.chunk.js",
-    "main.js.map": "/wmayu2019/Foodapp/static/js/main.88d95c17.chunk.js.map",
-    "runtime-main.js": "/wmayu2019/Foodapp/static/js/runtime-main.71339104.js",
-    "runtime-main.js.map": "/wmayu2019/Foodapp/static/js/runtime-main.71339104.js.map",
-    "static/js/2.f387f153.chunk.js": "/wmayu2019/Foodapp/static/js/2.f387f153.chunk.js",
-    "static/js/2.f387f153.chunk.js.map": "/wmayu2019/Foodapp/static/js/2.f387f153.chunk.js.map",
-    "index.html": "/wmayu2019/Foodapp/index.html",
-    "static/css/main.3341f1d5.chunk.css.map": "/wmayu2019/Foodapp/static/css/main.3341f1d5.chunk.css.map",
-    "static/js/2.f387f153.chunk.js.LICENSE.txt": "/wmayu2019/Foodapp/static/js/2.f387f153.chunk.js.LICENSE.txt"
+    "main.css": "/wmayu2019/FoodApp/static/css/main.3341f1d5.chunk.css",
+    "main.js": "/wmayu2019/FoodApp/static/js/main.88d95c17.chunk.js",
+    "main.js.map": "/wmayu2019/FoodApp/static/js/main.88d95c17.chunk.js.map",
+    "runtime-main.js": "/wmayu2019/FoodApp/static/js/runtime-main.b439c9f8.js",
+    "runtime-main.js.map": "/wmayu2019/FoodApp/static/js/runtime-main.b439c9f8.js.map",
+    "static/js/2.f387f153.chunk.js": "/wmayu2019/FoodApp/static/js/2.f387f153.chunk.js",
+    "static/js/2.f387f153.chunk.js.map": "/wmayu2019/FoodApp/static/js/2.f387f153.chunk.js.map",
+    "index.html": "/wmayu2019/FoodApp/index.html",
+    "static/css/main.3341f1d5.chunk.css.map": "/wmayu2019/FoodApp/static/css/main.3341f1d5.chunk.css.map",
+    "static/js/2.f387f153.chunk.js.LICENSE.txt": "/wmayu2019/FoodApp/static/js/2.f387f153.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.71339104.js",
+    "static/js/runtime-main.b439c9f8.js",
     "static/js/2.f387f153.chunk.js",
     "static/css/main.3341f1d5.chunk.css",
     "static/js/main.88d95c17.chunk.js"
